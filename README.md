@@ -4,6 +4,12 @@ COVID-19 had has an enomormous impact on lifestyle of poople in the last 2 years
 
 In the following project, we will conduct both a diagnosis using a machine learning modelon the first page of the web application and then on the 2nd page we will show Exploratory Data Analysis(EDA) on the covid cases data to see the variations of confirmed cases, cured cases, deaths over time as well as density of cases in various states in India and represented them graphically on scatter plots, line graph and bar graph for convenience.
 
+
+## Datasets Used
+### corona_tested_individuals_preprocessed.csv 
+This dataset was used for the COVID diagnosis prediction. The dataset contains data of symptoms taken from over 200,000 indivisuals. The symptoms tested on includes cough, fever, sore throat, shortness of breath and headache. We also check for their ages and previous experiance with covid. 
+
+
 ## Screenshots:
 # Line Chart:
 ![image](https://user-images.githubusercontent.com/57794377/137307558-3d26513f-7491-4c5f-9ebf-eb6ac7abc141.png)
