@@ -16,3 +16,6 @@ We have also implemented a trained classification model to predict if a person h
 ## Demo:
 https://user-images.githubusercontent.com/71788604/137308823-e07a5e53-1d52-49f8-b19d-f9d0c44cfe48.mp4
 
+#How to run
+1.Clone the repository
+2.Go to the root folder in the repository.
