@@ -8,10 +8,10 @@ We have also implemented a trained classification model to predict if a person h
 
 ## Databases
 ### corona_tested_individuals_preprocessed.csv
-This dataset was utilized for the diagnosis prediction. The dataset contains a sample of symptoms collected from over 200,000 people. The symptoms include cough, fever, sore throat, shortness of breath and head ache. It also considers the age of the person and their previos experiances with COVID. We trained our classification ML model using this dataset.
+This dataset was utilized for the diagnosis prediction. The dataset contains a sample of symptoms collected from over 200,000 people. The symptoms include cough, fever, sore throat, shortness of breath and head ache. It also considers the age of the person and their previous experiences with COVID. We trained our classification ML model using this dataset.
 
 ### covid_19_india_preprocessed.csv
-This dataset was used for the analysis and visualization of COVID cases in India. The dataset contains data on the number of people who contracted, recovered and dies due to COVID from each state and unoin territory along with the dates the numbers were sampled.
+This dataset was used for the analysis and visualization of COVID cases in India. The dataset contains data on the number of people who contracted, recovered and died due to COVID from each state and union territory along with the dates the numbers were sampled.
 
 ## Screenshots:
 # Line Chart:
