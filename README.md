@@ -1,2 +1,3 @@
-# COVID Diagnosis and Analysis
 ## Team_4max
+# COVID Diagnosis and Analysis
+COVID-19 had has an enomormous impact on lifestyle of poople in the last 2 years.Nonprofits, universities and other academic institutions around the world are turning to artificial intelligence (AI) and data analytics to help us better understand COVID-19 and its impact on communities—especially vulnerable populations and healthcare workers. In the following project, we will conduct exploratory data analysis on the covid cases data to see the variations of confirmed cases, cured cases, deaths over time as well as density of cases in various states in India and represented them graphically on scatter plots, line graph and bar graph for convenience.
