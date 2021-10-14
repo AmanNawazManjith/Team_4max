@@ -18,5 +18,7 @@ https://user-images.githubusercontent.com/71788604/137308823-e07a5e53-1d52-49f8-
 
 # How to run:
 Step 1. Clone the repository
+
 Step 2. Go to the root folder in the repository and type ```streamlit run app.py```
+
 Step 3. Enoy the app!
